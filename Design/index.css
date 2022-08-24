@@ -1,0 +1,50 @@
+html{
+	padding: 0px;
+	margin: 0px;
+}
+
+/* Possible background colors : #2B262D, #541412  */
+
+body{
+	background-color: #344648;
+	color: white;
+	justify-content: center;
+	text-align: center;
+	font-family: 'Lato', sans-serif;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    margin-top: 10px;
+    color: white;
+	font-size: 20px;
+}
+
+li{
+    display: inline-block;
+    margin: 20px;
+    margin-top: 0;
+    margin-right: 30px;
+    padding: 0;
+}
+
+.maintitle{
+	font-size: 30px;
+	font-weight: bolder;
+	right: 600px;
+	position: relative;
+	top: 25px;
+}
+
+.Content1,.Content2{
+	justify-content: center;
+	text-align: center;
+	margin: 100px 300px 0px 300px;
+}
+
+a{
+	color: white;
+	text-decoration: none;
+}
